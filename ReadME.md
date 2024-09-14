@@ -109,10 +109,8 @@ This project provides a simple web application that converts a LinkedIn resume P
 - **OpenAI API key not set!**: Make sure you have set the OpenAI API key by visiting `/set_api_key`.
 - **Error generating HTML**: Check if your OpenAI API key is valid and try again.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any issues or feature requests, please contact [your email address] or open an issue on the GitHub repository.
+For any issues or feature requests, please contact varshithbollam12@gmail.com or open an issue on the GitHub repository.
